@@ -7,3 +7,10 @@ Lancer le server avec
 ```
 yarn dev
 ```
+
+Disponible sur
+
+
+```
+http://localhost:1234
+```
